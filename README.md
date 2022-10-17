@@ -58,7 +58,7 @@
 </p>
 
 [![Oviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=OviYaD&hide=prs,issues&count_private=true&show_icons=true&theme=dark)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OviYaD&theme=dark&layout=compact&langs_count=6)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OviYaD&hide=python&theme=dark&layout=compact&langs_count=6)]()
 
 
 
